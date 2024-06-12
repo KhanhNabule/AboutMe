@@ -1,4 +1,5 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya2J5MmVibnkwcmM1bmtjemQzbzVlYmQyeHhkaXFtOWJneWkxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)]
+[![MasterHead](![image](https://github.com/KhanhNabule/KhanhNabule/assets/93192370/d69a3775-5233-4f57-898f-a11a4f62a43a)
+)]
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
