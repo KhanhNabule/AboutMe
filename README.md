@@ -1,4 +1,6 @@
-![Spring Boot](https://hub.packtpub.com/wp-content/uploads/2018/03/spring-boot-cover_0.png)
+<p align="center">
+  <img src="https://hub.packtpub.com/wp-content/uploads/2018/03/spring-boot-cover_0.png" alt="Tên hình ảnh">
+</p>
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
