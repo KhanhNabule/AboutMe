@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png" />
+![Spring Boot](https://hub.packtpub.com/wp-content/uploads/2018/03/spring-boot-cover_0.png)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Spring Boot<br>🎯 Goals: Becoming a Solution Architect<br>🎲 Fun fact: Billard is my strongest game</p>
+<p align="left">📚 I'm currently working with Spring Boot<br>🎯 Goals: Becoming a Fullstack Developer<br>🎲 Fun fact: Billard is my strongest game</p>
 
 ###
 
