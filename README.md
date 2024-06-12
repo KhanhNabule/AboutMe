@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png">
+<img align="right" alt="Coding" width="400" src="https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
