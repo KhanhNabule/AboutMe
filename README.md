@@ -1,4 +1,4 @@
-[![MasterHead]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya2J5MmVibnkwcmM1bmtjemQzbzVlYmQyeHhkaXFtOWJneWkxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg))]
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya2J5MmVibnkwcmM1bmtjemQzbzVlYmQyeHhkaXFtOWJneWkxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)]
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
