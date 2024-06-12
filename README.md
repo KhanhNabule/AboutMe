@@ -1,4 +1,4 @@
-<img src="https://hub.packtpub.com/wp-content/uploads/2018/03/spring-boot-cover_0.png" alt="Tên hình ảnh" style="width: 100%;">
+<img src="https://hub.packtpub.com/wp-content/uploads/2018/03/spring-boot-cover_0.png" alt="Tên hình ảnh" style="width: 100%; height: auto;">
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
