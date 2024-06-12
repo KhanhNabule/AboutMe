@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/KhanhNabule/KhanhNabule/assets/93192370/d69a3775-5233-4f57-898f-a11a4f62a43a)
-)]
+[![MasterHead](https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png)]
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
