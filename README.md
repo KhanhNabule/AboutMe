@@ -1,4 +1,4 @@
-[![MasterHead](https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png)]
+<img src="https://caodang.fpt.edu.vn/wp-content/uploads/spring-framework.png" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
